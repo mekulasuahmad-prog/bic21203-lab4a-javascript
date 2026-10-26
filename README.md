@@ -1,7 +1,7 @@
 
 # BIC21203 - Lab 4a: JavaScript
 
-**Name:** YNOR ASYILAH BINTI AHMAD
+**Name:** NOR ASYILAH BINTI AHMAD
 **Student ID:** AI240021
 **Course:** BIC21203 Web Development
 
